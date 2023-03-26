@@ -61,7 +61,7 @@ const DockContent = () => {
 									/>
 								</li>
 							</a>
-							<a href="https://www.linkedin.com/in/aditya-sharma-47b787201">
+							<a href="https://www.linkedin.com/in/taahirah-denmark-4b1441196/">
 								<li data-title="LinkedIn">
 									<img
 										src={LinkedInIcon}
